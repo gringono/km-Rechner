@@ -1,0 +1,14 @@
+{
+  "name": "Produktionsrechner",
+  "short_name": "Produktion",
+  "description": "Berechnet Fertigstellungsdatum und Abweichung für km-basierte Produktionsaufträge",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#16162a",
+  "theme_color": "#eab308",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
